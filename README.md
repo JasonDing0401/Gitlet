@@ -14,4 +14,5 @@
 <li>Basic remote commands that allow you to backup your own files and maintain multiple versions of them.
   </li>
 </ol>
-# Acknowledgement to CS61B at UC Berkeley. Detailed project link: https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj3/
+<strong>Acknowledgement to CS61B at UC Berkeley. Detailed project link: https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj3/
+  </strong>
